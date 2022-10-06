@@ -1,8 +1,12 @@
-# Random Password Generator
+# Random Password Generator 
 
 ## Description
 
-This random password generator has been modified from starter code to create an application. The application generates random passwords based on criteria selected by the user. For example, the user can choose the number of characters in the password, whether it will include numbers, uppercase letters, lowercase letters, and symbols. The app will run in the browser and will feature HTML, CSS, and will be powered by JavaScript. 
+⚡️ Welcome to the repository for the Random Password Generator. This random password generator creates random passwords based on criteria selected by our user, an employee with access to sensitive data.  
+
+⚡️ For example, the user can choose the length of the password, the and which character types will be used. Once the user selects their options, a random password is generated based on those parameters. If the user does not select choices within the parameters they are prompted with, they will be guided to try again with an alert that will remind them of the parameters.  
+
+⚡️ The app will run in the browser and will feature HTML, CSS, and will be powered by JavaScript. I hope that you enjoy this application. 
 
 
 ## User Story
@@ -35,12 +39,10 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following video shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
-## Github Repository
-[click here](https://github.com/bethdecarlo/random-password-generator)
+https://user-images.githubusercontent.com/110702442/194412841-9114fdae-60c5-4407-8a1e-b38db63c153c.mp4
 
-## Deployed Website 
-[click here](https://bethdecarlo.github.io/random-password-generator/)
+## Check out my application 
+✨[Deployed Random Password Generator Website](https://bethdecarlo.github.io/random-password-generator/)✨
